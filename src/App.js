@@ -6,7 +6,7 @@ import Pages from "./components/Pages/Pages";
 
 class App extends Component {
   state = {
-    page: 'Home'
+    page: 'About Us'
   };
 
   clickedHandler = {
@@ -24,8 +24,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <NavBar buttonClicked={this.clickedHandler}/>
-        <Pages current={this.state.page}/>
+        <Pages clicked={this.clickedHandler} current={this.state.page}/>
 
       </div>
     );

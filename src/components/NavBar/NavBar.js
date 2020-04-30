@@ -14,24 +14,26 @@ const StyledDiv = styled.div`
 
 const StyledName = styled.div`
 //position: absolute;
+  float: left;
   margin-left: 20px;
   margin-right: 20px;
   font-size: 30px;
-  float: left;
-  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   @media (max-width: 600px) {
-    float: none;
+    width: 100%;
     text-align: center;
+    margin: auto;
+    
   }
 `;
 
 const StyledContainer = styled.div`
   background-color: black;
-  position: fixed;
   width: 100%;
   color: white;
   z-index: 100;
-  margin-bottom: 100px;
+  margin-bottom: 30px;
 `;
 
 const NavBar = (props) => {

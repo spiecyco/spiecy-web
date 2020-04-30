@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const StyledButton = styled.button`
   height: 40px;
   font-size: 20px;
-  width: 100%;
+  width: 33.33%;
   background-color: inherit;
   color: inherit;
   text-align: center;

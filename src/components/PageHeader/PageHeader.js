@@ -43,13 +43,7 @@ const Header = styled.h1`
   animation: ${fadeIn} 1s;
   animation-fill-mode: forwards;
   text-align: center;
-  margin-top: 105px;
-  position: relative;
-  
-  @media (max-width: 600px) {
-    margin-top: 210px;
-  }
-
+    
 `;
 
 const PageHeader = (props) => {

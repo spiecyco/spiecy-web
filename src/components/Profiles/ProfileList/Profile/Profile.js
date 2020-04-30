@@ -11,19 +11,19 @@ const fadeIn = keyframes`
 `;
 
 const Container = styled.div`
-
-  width: 75%;
+  width: 60%;
   height: 250px;
   background-color: rgba(59,63,71,0.82);
   display: inline-block;
-  margin-bottom: 40px;
+  margin: auto auto 40px;
+  text-align: center;
   @media (max-width: 1100px) {
+    
     height: auto;
-    width: 60%;
   }
   opacity: 0;
   animation: ${fadeIn} 1s;
-  animation-delay: ${props=>props.index * 0.1 }s;
+  animation-delay: ${props => props.index * 0.1}s;
   animation-fill-mode: forwards;
   
   }
@@ -38,7 +38,7 @@ const PicContainer = styled.div`
   @media (max-width: 1100px) {
     height: 200px;
     float: left;
-    margin-left: 10%;
+    margin-left: 20px;
   }
 `;
 
@@ -54,12 +54,13 @@ const BioContainer = styled.div`
   width: 65%;
   height: auto;
   float: right;
-  margin-left: 0px;
-  margin-right: 10%;
+  margin-right: 20px;
   margin-bottom: 10%;
+  margin-left: fill;
   @media (max-width: 1100px) {
+    margin-right: 0;
     float: left;
-    margin-left: 10%;
+    margin-left: 20px;
   }
 `;
 
@@ -73,18 +74,26 @@ const Name = styled.div`
   font-size: 35px;
 `;
 
+const ContentContainer = styled.div`
+  width: auto;
+  height: 250px;
+  text-align: center;
+  margin: auto;
+`;
 
 const Profile = (props) => {
   return (
     <Container index={props.index}>
-      <PicContainer>
-        <Pic src={props.src}/>
-      </PicContainer>
-      <BioContainer>
-        <Name>{props.name}</Name>
-        <br/>
-        <Bio>{props.bio}</Bio>
-      </BioContainer>
+      <ContentContainer>
+        <PicContainer>
+          <Pic src={props.src}/>
+        </PicContainer>
+          <BioContainer>
+            <Name>{props.name}</Name>
+            <br/>
+          <Bio>{props.bio}</Bio>
+        </BioContainer>
+      </ContentContainer>
     </Container>
   );
 }

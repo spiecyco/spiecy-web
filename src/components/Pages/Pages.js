@@ -5,11 +5,11 @@ import Home from './Home';
 
 const Pages = (props) => {
   if (props.current === 'Home') {
-    return <Home/>;
+    return <Home clicked={props.clicked}/>;
   } else if (props.current === 'Projects') {
-    return <Projects/>
+    return <Projects clicked={props.clicked}/>
   } else {
-    return <AboutUs/>
+    return <AboutUs clicked={props.clicked}/>
   }
 };
 
