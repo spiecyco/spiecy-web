@@ -10,7 +10,7 @@ const CompletedProjects = [
     creators: 'Richard Gao, Jeffrey Yang, Ivy Wang',
     srcIcon: AquaIcon,
     srcInfo: AquaInfo,
-    link: '',
+    link: 'spiecyco.github.io/Aqua-Atsume',
   },
 ];
 
