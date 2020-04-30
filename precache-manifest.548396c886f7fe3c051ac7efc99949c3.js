@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4364a51a2a38bdf4c7609a6e09894f8d",
+    "revision": "fefbb6975766f0376ee799df52f3a608",
     "url": "/spiecy-web/index.html"
   },
   {
-    "revision": "1f748c21ddb097c0db23",
+    "revision": "c84154552e14aad947d6",
     "url": "/spiecy-web/static/css/main.d8f0a624.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spiecy-web/static/js/2.18349c7f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f748c21ddb097c0db23",
-    "url": "/spiecy-web/static/js/main.e88d4683.chunk.js"
+    "revision": "c84154552e14aad947d6",
+    "url": "/spiecy-web/static/js/main.d8cd3795.chunk.js"
   },
   {
     "revision": "0f86f730d01803baa5d2",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spiecy-web/static/media/AquaAtsumeInfo.cd195c77.png"
   },
   {
-    "revision": "83fd252cdbcc865c9eb585d2f38bcca0",
-    "url": "/spiecy-web/static/media/Bibendum.83fd252c.jpeg"
-  },
-  {
     "revision": "13930685fbcc10950e4e082538097c0a",
     "url": "/spiecy-web/static/media/JeffreyYang.13930685.png"
+  },
+  {
+    "revision": "883b0abbbd21a3639be558649dfaba5e",
+    "url": "/spiecy-web/static/media/RichardGao.883b0abb.jpg"
   },
   {
     "revision": "4e6d3abb98d0cf20e65a67039deed7c9",
