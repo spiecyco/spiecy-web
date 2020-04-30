@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c474d2d61c141a4e522b0407676ec1c3",
+    "revision": "31e88b1e9524909ae8cc15c19690c7db",
     "url": "/spiecy-web/index.html"
   },
   {
-    "revision": "7afbe8c87856df5786b9",
+    "revision": "0187fd9e90c362a51ed8",
     "url": "/spiecy-web/static/css/main.d8f0a624.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spiecy-web/static/js/2.18349c7f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7afbe8c87856df5786b9",
-    "url": "/spiecy-web/static/js/main.9e9e9c25.chunk.js"
+    "revision": "0187fd9e90c362a51ed8",
+    "url": "/spiecy-web/static/js/main.8568043e.chunk.js"
   },
   {
     "revision": "0f86f730d01803baa5d2",

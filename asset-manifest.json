@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spiecy-web/static/css/main.d8f0a624.chunk.css",
-    "main.js": "/spiecy-web/static/js/main.9e9e9c25.chunk.js",
-    "main.js.map": "/spiecy-web/static/js/main.9e9e9c25.chunk.js.map",
+    "main.js": "/spiecy-web/static/js/main.8568043e.chunk.js",
+    "main.js.map": "/spiecy-web/static/js/main.8568043e.chunk.js.map",
     "runtime-main.js": "/spiecy-web/static/js/runtime-main.2f9bc980.js",
     "runtime-main.js.map": "/spiecy-web/static/js/runtime-main.2f9bc980.js.map",
     "static/js/2.18349c7f.chunk.js": "/spiecy-web/static/js/2.18349c7f.chunk.js",
     "static/js/2.18349c7f.chunk.js.map": "/spiecy-web/static/js/2.18349c7f.chunk.js.map",
     "index.html": "/spiecy-web/index.html",
-    "precache-manifest.2530cd19e3157d0e2591d059e28b1bc5.js": "/spiecy-web/precache-manifest.2530cd19e3157d0e2591d059e28b1bc5.js",
+    "precache-manifest.369e2b8e9819b8a4888a78d8209c10c1.js": "/spiecy-web/precache-manifest.369e2b8e9819b8a4888a78d8209c10c1.js",
     "service-worker.js": "/spiecy-web/service-worker.js",
     "static/css/main.d8f0a624.chunk.css.map": "/spiecy-web/static/css/main.d8f0a624.chunk.css.map",
     "static/js/2.18349c7f.chunk.js.LICENSE.txt": "/spiecy-web/static/js/2.18349c7f.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.2f9bc980.js",
     "static/js/2.18349c7f.chunk.js",
     "static/css/main.d8f0a624.chunk.css",
-    "static/js/main.9e9e9c25.chunk.js"
+    "static/js/main.8568043e.chunk.js"
   ]
 }
