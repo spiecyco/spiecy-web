@@ -6,7 +6,7 @@ import Pages from "./components/Pages/Pages";
 
 class App extends Component {
   state = {
-    page: 'About Us'
+    page: 'Home'
   };
 
   clickedHandler = {
