@@ -1,5 +1,6 @@
 import RichardGao from "../../assets/Members/RichardGao.jpg";
 import JeffreyYang from "../../assets/Members/JeffreyYang.png"
+import IanZhang from "../../assets/Members/IanZhang.png";
 
 const PROFILES = [
   {
@@ -12,7 +13,12 @@ const PROFILES = [
     name:"Jeffrey Yang",
     bio: "I do all the art and design stuff.",
     src: JeffreyYang,
-  }
+  },
+  {
+    name:"Ian Zhang",
+    bio: "Russell from Up. Your favorite childhood cartoon has come to life. Quote: \"Never Underestimate the power of the scouts code.\" ",
+    src: IanZhang,
+  },
 ];
 
 export default PROFILES;
