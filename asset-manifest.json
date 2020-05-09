@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/spiecy-web/static/css/main.d8f0a624.chunk.css",
-    "main.js": "/spiecy-web/static/js/main.3a396f87.chunk.js",
-    "main.js.map": "/spiecy-web/static/js/main.3a396f87.chunk.js.map",
+    "main.js": "/spiecy-web/static/js/main.4b9ce926.chunk.js",
+    "main.js.map": "/spiecy-web/static/js/main.4b9ce926.chunk.js.map",
     "runtime-main.js": "/spiecy-web/static/js/runtime-main.2f9bc980.js",
     "runtime-main.js.map": "/spiecy-web/static/js/runtime-main.2f9bc980.js.map",
-    "static/js/2.18349c7f.chunk.js": "/spiecy-web/static/js/2.18349c7f.chunk.js",
-    "static/js/2.18349c7f.chunk.js.map": "/spiecy-web/static/js/2.18349c7f.chunk.js.map",
+    "static/js/2.e2296db5.chunk.js": "/spiecy-web/static/js/2.e2296db5.chunk.js",
+    "static/js/2.e2296db5.chunk.js.map": "/spiecy-web/static/js/2.e2296db5.chunk.js.map",
     "index.html": "/spiecy-web/index.html",
-    "precache-manifest.2d275c8cdb0910a31568773d296163ab.js": "/spiecy-web/precache-manifest.2d275c8cdb0910a31568773d296163ab.js",
+    "precache-manifest.de2e50ab301824e16f5569071e34fbb2.js": "/spiecy-web/precache-manifest.de2e50ab301824e16f5569071e34fbb2.js",
     "service-worker.js": "/spiecy-web/service-worker.js",
     "static/css/main.d8f0a624.chunk.css.map": "/spiecy-web/static/css/main.d8f0a624.chunk.css.map",
-    "static/js/2.18349c7f.chunk.js.LICENSE.txt": "/spiecy-web/static/js/2.18349c7f.chunk.js.LICENSE.txt",
+    "static/js/2.e2296db5.chunk.js.LICENSE.txt": "/spiecy-web/static/js/2.e2296db5.chunk.js.LICENSE.txt",
     "static/media/AquaAtsumeIcon.png": "/spiecy-web/static/media/AquaAtsumeIcon.a9190e14.png",
     "static/media/AquaAtsumeInfo.png": "/spiecy-web/static/media/AquaAtsumeInfo.cd195c77.png",
+    "static/media/IanZhang.png": "/spiecy-web/static/media/IanZhang.57024607.png",
     "static/media/JeffreyYang.png": "/spiecy-web/static/media/JeffreyYang.13930685.png",
     "static/media/RichardGao.jpg": "/spiecy-web/static/media/RichardGao.883b0abb.jpg",
     "static/media/email.4e6d3abb.svg": "/spiecy-web/static/media/email.4e6d3abb.svg",
@@ -21,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2f9bc980.js",
-    "static/js/2.18349c7f.chunk.js",
+    "static/js/2.e2296db5.chunk.js",
     "static/css/main.d8f0a624.chunk.css",
-    "static/js/main.3a396f87.chunk.js"
+    "static/js/main.4b9ce926.chunk.js"
   ]
 }

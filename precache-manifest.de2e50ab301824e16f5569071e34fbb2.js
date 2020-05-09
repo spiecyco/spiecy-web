@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41035c761adca9c3c8e158bf0b8ccd7d",
+    "revision": "64a2a3e22b5cd2b0476c1b0e8b01f628",
     "url": "/spiecy-web/index.html"
   },
   {
-    "revision": "4208920df7ac5c003a63",
+    "revision": "a4da6bf6a8ef8e3175f2",
     "url": "/spiecy-web/static/css/main.d8f0a624.chunk.css"
   },
   {
-    "revision": "eaffdb828a87274d43d1",
-    "url": "/spiecy-web/static/js/2.18349c7f.chunk.js"
+    "revision": "127d0e6f5bb575f6d11d",
+    "url": "/spiecy-web/static/js/2.e2296db5.chunk.js"
   },
   {
     "revision": "0042ed35eedf85f73c564b78f2a06746",
-    "url": "/spiecy-web/static/js/2.18349c7f.chunk.js.LICENSE.txt"
+    "url": "/spiecy-web/static/js/2.e2296db5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4208920df7ac5c003a63",
-    "url": "/spiecy-web/static/js/main.3a396f87.chunk.js"
+    "revision": "a4da6bf6a8ef8e3175f2",
+    "url": "/spiecy-web/static/js/main.4b9ce926.chunk.js"
   },
   {
     "revision": "0f86f730d01803baa5d2",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cd195c77c8ab02f4a8c6981c815e6f58",
     "url": "/spiecy-web/static/media/AquaAtsumeInfo.cd195c77.png"
+  },
+  {
+    "revision": "57024607db6a8505b1b2f560c628c13e",
+    "url": "/spiecy-web/static/media/IanZhang.57024607.png"
   },
   {
     "revision": "13930685fbcc10950e4e082538097c0a",
