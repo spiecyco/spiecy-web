@@ -5,7 +5,7 @@ import IanZhang from "../../assets/Members/IanZhang.png";
 const PROFILES = [
   {
     name: "Richard Gao",
-    bio: "I'm a Junior at Gunn High School who likes programming. I code in Java, Python, JavaScript, HTML, CSS, React, and C++." +
+    bio: "I'm a Junior at Gunn High School who likes programming; I code in Java, Python, JavaScript, HTML, CSS, React, and C++." +
       " I write most of the code for our applications.",
     src: RichardGao
   },
@@ -16,7 +16,8 @@ const PROFILES = [
   },
   {
     name:"Ian Zhang",
-    bio: "Russell from Up. Your favorite childhood cartoon has come to life. Quote: \"Never Underestimate the power of the scouts code.\" ",
+    bio: "Russell from Up. Your favorite childhood cartoon has come to life. " +
+      "Quote: \"Never Underestimate the power of the scout's code.\" ",
     src: IanZhang,
   },
 ];
